@@ -1,0 +1,7 @@
+numpy>=1.23
+matplotlib>=3.7
+# Optional viewer; visualize.py falls back to matplotlib if not installed
+viser
+# Kinematics / dynamics library for URDF-based retargeting
+pin
+meshcat

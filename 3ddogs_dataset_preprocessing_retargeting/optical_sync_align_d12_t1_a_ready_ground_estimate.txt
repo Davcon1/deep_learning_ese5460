@@ -1,0 +1,5 @@
+RANSAC-estimated ground Y per joint:
+l_meta_carp: y≈-0.015695 m (inliers 56/56, 100.00% within ±0.0050)
+r_meta_carp: y≈-0.016545 m (inliers 34/40, 85.00% within ±0.0050)
+l_meta_tars: y≈-0.025354 m (inliers 22/27, 81.48% within ±0.0050)
+r_meta_tars: y≈-0.025432 m (inliers 31/39, 79.49% within ±0.0050)

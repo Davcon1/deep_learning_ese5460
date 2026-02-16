@@ -1,0 +1,112 @@
+[
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d37_t2_b.txt",
+    "stats": {
+      "num_frames": 216,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 216
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d63_t7_b.txt",
+    "stats": {
+      "num_frames": 194,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 194
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d29_t1_b.txt",
+    "stats": {
+      "num_frames": 188,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 188
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d63_t6_b.txt",
+    "stats": {
+      "num_frames": 173,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 173
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d29_t2_b.txt",
+    "stats": {
+      "num_frames": 164,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 164
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d29_t3_a.txt",
+    "stats": {
+      "num_frames": 160,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 160
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d55_t1_b.txt",
+    "stats": {
+      "num_frames": 159,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 159
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d63_t7_a.txt",
+    "stats": {
+      "num_frames": 159,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 159
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d55_t2_b.txt",
+    "stats": {
+      "num_frames": 156,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 156
+    }
+  },
+  {
+    "path": "/mnt/e/3ddogs/Sync_Align_v2023_11_16b/optical_sync_align_d48_t4_b.txt",
+    "stats": {
+      "num_frames": 155,
+      "num_joints": 1,
+      "num_nan_values": 0,
+      "num_nan_joints": 0,
+      "valid_joint_ratio": 1.0,
+      "fully_valid_frames": 155
+    }
+  }
+]

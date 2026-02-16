@@ -1,0 +1,50 @@
+# Core scientific computing
+numpy>=1.23
+scipy
+
+# Deep learning and ML
+torch
+tensordict
+onnx
+onnxscript
+
+# Data handling
+h5py
+toml
+
+# Visualization
+matplotlib>=3.7
+viser
+open3d
+trimesh
+
+# Reinforcement learning
+gymnasium
+gym
+rsl-rl-lib
+
+# Utilities
+tqdm
+psutil
+pyyaml
+prettytable
+hydra-core
+omegaconf
+
+# Experiment tracking and model management
+wandb>=0.19
+
+# Data download
+huggingface-hub
+
+# Isaac Lab packages
+isaaclab
+isaaclab-rl
+isaaclab-tasks
+isaaclab-assets
+isaaclab-mimic
+
+# Build tools
+setuptools
+wheel
+
